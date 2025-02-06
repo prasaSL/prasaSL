@@ -3,6 +3,7 @@
 🚀 Full Stack Developer | AI Enthusiast | Tech Explorer
 
 I'm a passionate Full Stack Developer with experience in building scalable web applications using Node.js (Express), Laravel, React, Angular, and MongoDB. I love working on API development, security management, and machine learning models for image processing.
+
 🔧 Tech Stack:
 
     Frontend: React, Angular, Redux, Material UI, Bootstrap
