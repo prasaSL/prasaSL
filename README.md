@@ -7,8 +7,9 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 🔧 Tech Stack:
 
     Frontend: React, Angular, Redux, Material UI, Bootstrap
-    Backend: Node.js (Express), Laravel, ASP.NET Core
+    Backend: Node.js (Express), Laravel, ASP.NET Core , nestjs
     Databases: MySQL, MongoDB, PostgreSQL, MariaDB
+    api:REST ,GraphQL
     Other: JWT Authentication, MVC Architecture, n-tier Architecture, Dapper, Sequelize
 
 🌟 What I'm Working On:
