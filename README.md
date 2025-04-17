@@ -20,3 +20,7 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 
 
 💡 "Code. Learn. Innovate."
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasaSL&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasaSL&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prasaSL)](https://github.com/ryo-ma/github-profile-trophy)
