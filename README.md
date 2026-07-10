@@ -90,8 +90,8 @@ Predicts k-level and fuel composition from combustion chamber images.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prasaSL&show_icons=true&theme=dracula&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasaSL&layout=compact&theme=dracula&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-prasasl.vercel.app/api?username=prasaSL&show_icons=true&theme=dracula&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-prasasl.vercel.app/api/top-langs/?username=prasaSL&layout=compact&theme=dracula&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Predicts k-level and fuel composition from combustion chamber images.
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasaSL&theme=dracula&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-prasasl.vercel.app/?username=prasaSL&theme=dracula&no-frame=true&column=7" />
 </p>
 
 ### 🐍 Contribution Snake
