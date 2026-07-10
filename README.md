@@ -73,11 +73,11 @@ Building web applications with Bubble.io, AWS backend services, and Next.js
 
 ### 🚀 Featured Projects
 
-**🔹 [AI-Powered Crypto Signal & Market Intelligence Platform](#)**
+**🔹 AI-Powered Crypto Signal & Market Intelligence Platform**
 Real-time crypto signaling platform delivering AI-driven buy/sell signals from live market data.
 `NestJS` `Next.js` `Kafka` `WebSockets` `TimescaleDB` `Redis` `LangChain` · NX Monorepo microservices, AI news analysis agents, and an AI trading coach.
 
-**🔹 [Knowledge-Sharing Platform for A/L Economics Students](#)**
+**🔹 Knowledge-Sharing Platform for A/L Economics Students**
 Community platform with Gemini AI-powered semantic search.
 `Node.js` `Sequelize` `MySQL` `Weaviate` `Gemini AI` `GCP` · JWT + Google OAuth, dynamic ratings, personalized notifications.
 
@@ -90,16 +90,25 @@ Predicts k-level and fuel composition from combustion chamber images.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prasaSL&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasaSL&layout=compact&theme=radical&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prasaSL&show_icons=true&theme=dracula&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasaSL&layout=compact&theme=dracula&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasaSL&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasaSL&theme=dracula" />
 </p>
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=prasaSL&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasaSL&theme=dracula&no-frame=true&column=7" />
+</p>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasaSL/prasaSL/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasaSL/prasaSL/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasaSL/prasaSL/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
